@@ -1,0 +1,5 @@
+{
+  "name": "跑腿星球CampusGo",
+  "description": "A campus errand and delivery platform MVP with dual roles (requester/runner), order management, and dual rating system.",
+  "requestFramePermissions": []
+}
